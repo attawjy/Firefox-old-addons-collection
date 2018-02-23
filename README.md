@@ -1,13 +1,22 @@
 # Firefox-old-addons-collection
 火狐浏览器旧式扩展的收集，兼容于52-56版本，不兼容于57+版本，收集了最普遍的扩展外还有一些个人的选择。
 
-由于有些扩展在更新到新的WebExtensions API后改变了原有的功能，所以这里只收集了基于旧的XUL-based SDK的老版本（老版本中的最新的）。
+由于有些扩展在更新到新的WebExtensions API后改变了原有的功能，所以这里只收集了基于旧SDK的老版本（老版本中的最新的）。
 
 ---
+
+This Firefox addons collection is compatible with Firefox 52-56, is not compatible with Firefox 57+.Besides the most popular extensions，there are also some of my personal choices.
+
+Because some extensions changed their features after updating to new WebExtensions API, only old versions(the latest in the old ones) built on the ancient Add-ons SDK were collected here.
+
+---
+
 下面是当前的文件对应的扩展列表：
 
-|文件名|对应的扩展名|
-|-----|----------|
+Here is the file name and the extension name：
+
+|文件名 File Name|扩展名 Extension Name|
+|---------------|--------------------|
 |1_click_youtube_video_download-3.0.5-fx+sm.xpi|1-Click YouTube Video Download|
 |aboutaddons_memory-12-fx+sm+an.xpi|about:addons-memory|
 |adblock_for_firefox-3.2.1-fx-mac.xpi|AdBlock for Firefox(MAC)|
