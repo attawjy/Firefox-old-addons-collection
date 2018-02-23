@@ -24,12 +24,12 @@ Here is the file name and the extension name：
 |adblock_plus-2.9.1-an+fx+sm+tb.xpi|Adblock Plus|
 |adblock_ultimate-2.20-fx+an.xpi|AdBlocker Ultimate|
 |add_ons_manager_context_menu-0.4.2-sm+tb+fx.xpi|Add-ons Manager Context Menu|
-|addon-1.1.8-fx.xpi|火狐捷径|
-|addon-2.55.3-fx.xpi|网页截图|
+|addon-1.1.8-fx.xpi|火狐捷径 Easy Access|
+|addon-2.55.3-fx.xpi|网页截图 Easy Screenshot|
 |adguard_adblocker-2.6.7-fx.xpi|Adguard AdBlocker|
 |all_in_one_sidebar-0.7.31.1-fx.xpi|All-in-One Sidebar|
 |anonymox-3.0-fx.xpi|anonymoX|
-|ant_video_downloader-2.4.7.50-fx.xpi|Ant 视频下载器用嵌入式FLV播放器|
+|ant_video_downloader-2.4.7.50-fx.xpi|Ant 视频下载器用嵌入式FLV播放器 Ant Video Downloader|
 |blocksite-1.1.9.0-fx.xpi|BlockSite|
 |bloody_vikings-0.8.6-fx.xpi|Bloody Vikings!|
 |browsec_vpn-3.16.16-an+fx.xpi|Browsec VPN|
@@ -66,13 +66,13 @@ Here is the file name and the extension name：
 |garmin_communicator-4.1.0-fx-mac.xpi|Garmin Communicator(MAC)|
 |garmin_communicator-4.1.0-fx-windows.xpi|Garmin Communicator(WIN)|
 |gif_block-1.2.3-fx.xpi|Gif Block|
-|google_translate_imtranslator_dictionary_tts-10.52-fx.xpi|ImTranslator - 在线翻译|
+|google_translate_imtranslator_dictionary_tts-10.52-fx.xpi|ImTranslator - 在线翻译 Google Translate, ImTranslator, Dictionary, TTS|
 |grammarly_for_firefox-8.698.584-fx.xpi|Grammarly for Firefox|
 |greasemonkey-3.17-fx.xpi|Greasemonkey|
 |hoxx_vpn_proxy-2.2.2-an+fx-mac.xpi|Hoxx VPN Proxy(MAC)|
 |hoxx_vpn_proxy-2.2.2-an+fx-windows.xpi|Hoxx VPN Proxy(WIN)|
 |https_everywhere-2017.10.24-an+fx+sm+tb.xpi|HTTPS Everywhere|
-|icloud_bookmarks-1.4.24-fx-windows.xpi|iCloud 书签(WIN)|
+|icloud_bookmarks-1.4.24-fx-windows.xpi|iCloud 书签 iCloud Bookmarks(WIN)|
 |ie_tab_v2_enhanced_ie_tab-6.2.18.1-fx-windows.xpi|IE Tab V2 (FF 3.5, 4, 5, 6, 7+)(WIN)|
 |imagus-0.9.8.52-fx+sm.xpi|Imagus|
 |ipflood-1.2.1-fx.xpi|ipFlood|
@@ -122,14 +122,14 @@ Here is the file name and the extension name：
 |tineye_reverse_image_search-1.2.2-fx-mac.xpi|TinEye Reverse Image Search(MAC)|
 |tineye_reverse_image_search-1.2.2-fx-windows.xpi|TinEye Reverse Image Search(WIN)|
 |tree_style_tab-0.19.2017090601-fx.xpi|Tree Style Tab|
-|turn_off_the_lights_for_youtubetm_and_beyond-3.4.34.0-an+fx.xpi|关灯看视频|
+|turn_off_the_lights_for_youtubetm_and_beyond-3.4.34.0-an+fx.xpi|关灯看视频 Turn Off the Lights for YouTube™ and Beyond|
 |ublock_origin-1.13.8-an+fx+sm+tb.xpi|uBlock Origin|
 |user_agent_switcher-0.7.3-fx+sm.xpi|User-Agent Switcher|
 |video_downloadhelper-6.3.3-fx.xpi|Video DownloadHelper|
 |vimperator-3.16.0-fx.xpi|Vimperator|
 |web_developer-1.2.13-fx+sm.xpi|Web Developer|
-|web_of_trust_mywotwot_website_reputation_rating-20170206-fx+sm.xpi|WOT - 安全网上冲浪|
-|webmail_ad_blocker-4.29-fx.xpi|邮局的广告拦截器|
+|web_of_trust_mywotwot_website_reputation_rating-20170206-fx+sm.xpi|WOT - 安全网上冲浪 Web of Trust, MyWOT/WOT: Website Reputation Rating|
+|webmail_ad_blocker-4.29-fx.xpi|邮局的广告拦截器 Webmail Ad Blocker|
 |xmarks_sync-4.4.1-fx+sm.xpi|Xmarks Sync|
 |xthunder-1.3.4-fx.xpi|xThunder|
 |yahoo_homepage-1.1.1-an+fx.xpi|Yahoo Homepage|
